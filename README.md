@@ -15,5 +15,6 @@ This is a simple Node.js application that provides APIs to fetch all products an
 ## Dployment
 
 I Deploy this app on vercel
--Api to get all products (https://souq-mazad-task.vercel.app/e-commerce/app/products)
--Api to get specific product (https://souq-mazad-task.vercel.app/e-commerce/app/products/:id)
+
+- Api to get all products (https://souq-mazad-task.vercel.app/e-commerce/app/products)
+- Api to get specific product (https://souq-mazad-task.vercel.app/e-commerce/app/products/:id)
